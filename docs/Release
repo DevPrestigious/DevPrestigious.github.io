@@ -1,0 +1,12 @@
+Origin: aPrestigiousRepo
+Label: aPrestigiousRepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks
+
+SHA256:
+ db72d6d9a084a760e02730b363892739dda582c816756c06d7dd1daeb97b715d 621 Packages.bz2
+ aeb447b9258dd94468936fefbb9dcfdbf22598b1252a73f692cf16227d5d8cee 604 Packages.xz
